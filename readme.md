@@ -3,7 +3,9 @@
 1.Ecommerce
 
 -Muestra una lista de productos que vienen de un JSON
+
 -Añade un filtro por categoría
+
 -Añade un filtro por precio
 
 2.Shopping Cart
