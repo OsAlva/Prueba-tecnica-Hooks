@@ -7,6 +7,7 @@
 -Añade un filtro por precio
 
 2.Shopping Cart
+
 -Haz que se puedan añadir los productos a un carrito.
 -Haz que se puedan eliminar los productos del carrito
 -Haz que se puedan modificar la cantidad de productos del carrito.
